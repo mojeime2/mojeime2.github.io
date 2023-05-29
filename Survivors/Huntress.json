@@ -1,0 +1,18 @@
+{
+  "survivor" : "Huntress",
+  "primary" : [
+    "Strafe",
+    "Flurry"
+  ],
+  "secondary" : [
+    "Laser Glaive"
+  ],
+  "utility" : [
+    "Blink",
+    "Phase Blink"
+  ],
+  "special" : [
+    "Arrow Rain",
+    "Ballista"
+  ]
+}

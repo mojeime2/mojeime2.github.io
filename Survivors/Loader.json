@@ -1,0 +1,18 @@
+{
+  "survivor" : "Loader",
+  "primary" : [
+    "Knuckleboom"
+  ],
+  "secondary" : [
+    "Grapple Fist",
+    "Spiked Fist"
+  ],
+  "utility" : [
+    "Charged Gauntlet",
+    "Thunder Gauntlet"
+  ],
+  "special" : [
+    "M551 Pylon",
+    "Thunderslam"
+  ]
+}

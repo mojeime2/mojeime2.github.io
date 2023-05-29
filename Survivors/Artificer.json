@@ -1,0 +1,18 @@
+{
+  "survivor" : "Artificer",
+  "primary" : [
+    "Flame Bolt",
+    "Plasma Bolt"
+  ],
+  "secondary" : [
+    "Charged Nano-Bomb",
+    "Cast Nano-Spear"
+  ],
+  "utility" : [
+    "Snapfreeze"
+  ],
+  "special" : [
+    "Flamethrower",
+    "Ion Surge"
+  ]
+}

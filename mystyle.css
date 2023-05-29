@@ -1,0 +1,22 @@
+body {
+    background: url(https://static.wikia.nocookie.net/riskofrain2_gamepedia_en/images/1/1f/Background.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+img.survivor_icon {
+    width: 256px;
+    height: 256px;
+}
+
+img.ability_icon {
+    width: 128px;
+    height: 128px;
+}
+
+p {
+    color: aliceblue;
+    font-size: 25px;
+}

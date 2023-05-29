@@ -1,0 +1,19 @@
+{
+  "survivor" : "Captain",
+  "primary" : [
+    "Vulcan Shotgun"
+  ],
+  "secondary" : [
+    "Power Tazer"
+  ],
+  "utility" : [
+    "Orbital Probe",
+    "OGM-72 'DIABLO' Strike"
+  ],
+  "special" : [
+    "Beacon: Healing",
+    "Beacon: Shocking",
+    "Beacon: Resupply",
+    "Beacon: Hacking"
+  ]
+}

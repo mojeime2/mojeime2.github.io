@@ -1,0 +1,18 @@
+{
+  "survivor" : "Engineer",
+  "primary" : [
+    "Bouncing Grenades"
+  ],
+  "secondary" : [
+    "Pressure Mines",
+    "Spider Mines"
+  ],
+  "utility" : [
+    "Bubble Shield",
+    "Thermal Harpoons"
+  ],
+  "special" : [
+    "TR12 Gauss Auto-Turret",
+    "TR58 Carbonizer Turret"
+  ]
+}

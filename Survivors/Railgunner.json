@@ -1,0 +1,18 @@
+{
+  "survivor" : "Railgunner",
+  "primary" : [
+    "XQR Smart Round System"
+  ],
+  "secondary" : [
+    "M99 Sniper",
+    "HH44 Marksman"
+  ],
+  "utility" : [
+    "Concussion Device",
+    "Polar Field Device"
+  ],
+  "special" : [
+    "Supercharge",
+    "Cryocharge"
+  ]
+}

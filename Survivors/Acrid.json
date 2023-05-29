@@ -1,0 +1,17 @@
+{
+  "survivor" : "Acrid",
+  "primary" : [
+    "Vicious Wounds"
+  ],
+  "secondary" : [
+    "Neurotoxin",
+    "Ravenous Bite"
+  ],
+  "utility" : [
+    "Caustic Leap",
+    "Frenzied Leap"
+  ],
+  "special" : [
+    "Epidemic"
+  ]
+}

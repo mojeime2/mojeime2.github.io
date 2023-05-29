@@ -1,0 +1,18 @@
+{
+  "survivor" : "Bandit",
+  "primary" : [
+    "Burst",
+    "Blast"
+  ],
+  "secondary" : [
+    "Serrated Dagger",
+    "Serrated Shiv"
+  ],
+  "utility" : [
+    "Smoke Bomb"
+  ],
+  "special" : [
+    "Lights Out",
+    "Desperado"
+  ]
+}

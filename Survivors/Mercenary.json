@@ -1,0 +1,18 @@
+{
+  "survivor" : "Mercenary",
+  "primary" : [
+    "Laser Sword"
+  ],
+  "secondary" : [
+    "Whirlwind",
+    "Rising Thunder"
+  ],
+  "utility" : [
+    "Blinding Assault",
+    "Focused Assault"
+  ],
+  "special" : [
+    "Eviscerate",
+    "Slicing Winds"
+  ]
+}

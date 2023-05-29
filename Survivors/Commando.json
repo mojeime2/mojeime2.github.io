@@ -1,0 +1,18 @@
+{
+  "survivor" : "Commando",
+  "primary" : [
+    "Double Tap"
+  ],
+  "secondary" : [
+    "Phase Round",
+    "Phase Blast"
+  ],
+  "utility" : [
+    "Tactical Dive",
+    "Tactical Slide"
+  ],
+  "special" : [
+    "Suppressive Fire",
+    "Frag Grenade"
+  ]
+}

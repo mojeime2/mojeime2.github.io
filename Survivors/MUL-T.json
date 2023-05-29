@@ -1,0 +1,19 @@
+{
+  "survivor" : "MUL-T",
+  "primary" : [
+    "Auto-Nailgun",
+    "Rebar Puncher",
+    "Scrap Launcher",
+    "Power-Saw"
+  ],
+  "secondary" : [
+    "Blast Canister"
+  ],
+  "utility" : [
+    "Transport Mode"
+  ],
+  "special" : [
+    "Retool",
+    "Power Mode"
+  ]
+}

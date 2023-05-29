@@ -1,0 +1,18 @@
+{
+  "survivor" : "REX",
+  "primary" : [
+    "DIRECTIVE: Inject"
+  ],
+  "secondary" : [
+    "DIRECTIVE: Drill",
+    "Seed Barrage"
+  ],
+  "utility" : [
+    "DIRECTIVE: Disperse",
+    "Bramble Volley"
+  ],
+  "special" : [
+    "DIRECTIVE: Harvest",
+    "Tangling Growth"
+  ]
+}

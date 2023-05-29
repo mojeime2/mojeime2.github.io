@@ -1,0 +1,15 @@
+{
+  "survivor" : "Void Fiend",
+  "primary" : [
+    "Drown"
+  ],
+  "secondary" : [
+    "Flood"
+  ],
+  "utility" : [
+    "Trespass"
+  ],
+  "special" : [
+    "Suppress"
+  ]
+}
