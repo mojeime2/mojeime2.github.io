@@ -21,7 +21,7 @@ function randomize() {
 
     var random_choice = survivors[getRandomInt(13)];
 
-    fetch('https://mojeime2/mojeime2.github.io/Survivors/'.concat(random_choice,".json"))
+    fetch('https://mojeime2.github.io/Survivors/'.concat(random_choice,".json"))
         .then((response) => response.json())
         .then((json) => update_fields(json));
 }
