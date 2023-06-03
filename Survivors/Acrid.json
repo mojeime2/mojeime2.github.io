@@ -1,5 +1,9 @@
 {
   "survivor" : "Acrid",
+  "passive" : [
+    "Posion",
+    "Blight"
+  ],
   "primary" : [
     "Vicious Wounds"
   ],

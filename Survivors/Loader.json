@@ -1,5 +1,8 @@
 {
   "survivor" : "Loader",
+  "passive" : [
+    "Scrap Barrier"
+  ],
   "primary" : [
     "Knuckleboom"
   ],

@@ -1,5 +1,8 @@
 {
   "survivor" : "Captain",
+  "passive" : [
+    "Defensive Microbots"
+  ],
   "primary" : [
     "Vulcan Shotgun"
   ],

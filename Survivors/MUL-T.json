@@ -1,5 +1,6 @@
 {
   "survivor" : "MUL-T",
+  "passive" : [],
   "primary" : [
     "Auto-Nailgun",
     "Rebar Puncher",

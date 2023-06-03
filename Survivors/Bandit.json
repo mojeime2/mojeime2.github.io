@@ -1,5 +1,8 @@
 {
   "survivor" : "Bandit",
+  "passive" : [
+    "Backstab"
+  ],
   "primary" : [
     "Burst",
     "Blast"

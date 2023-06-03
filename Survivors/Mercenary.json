@@ -1,5 +1,8 @@
 {
   "survivor" : "Mercenary",
+  "passive" : [
+    "Cybernetic Enhancements"
+  ],
   "primary" : [
     "Laser Sword"
   ],

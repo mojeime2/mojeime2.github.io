@@ -1,5 +1,8 @@
 {
   "survivor" : "Railgunner",
+  "passive" : [
+    "Magnetic Accelerator"
+  ],
   "primary" : [
     "XQR Smart Round System"
   ],

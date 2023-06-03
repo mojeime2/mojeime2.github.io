@@ -1,5 +1,6 @@
 {
   "survivor" : "Huntress",
+  "passive" : [],
   "primary" : [
     "Strafe",
     "Flurry"

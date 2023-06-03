@@ -1,5 +1,8 @@
 {
   "survivor" : "REX",
+  "passive" : [
+    "Natural Toxins"
+  ],
   "primary" : [
     "DIRECTIVE: Inject"
   ],

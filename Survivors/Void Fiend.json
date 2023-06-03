@@ -1,5 +1,8 @@
 {
   "survivor" : "Void Fiend",
+  "passive" : [
+    "Void Corruption"
+  ],
   "primary" : [
     "Drown"
   ],

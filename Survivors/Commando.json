@@ -1,5 +1,6 @@
 {
   "survivor" : "Commando",
+  "passive" : [],
   "primary" : [
     "Double Tap"
   ],
