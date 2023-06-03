@@ -54,6 +54,13 @@ function update_fields(json) {
 
         document.getElementById("MUL-T_primary").style.display = "block";
         document.getElementById("MUL-T_primary_img").style.display = "block";
+    } else if (name == "Acrid") {
+        var Acrid_passive = json.passive[Math.floor(Math.random() * json.primary.length)];
+        document.getElementById("MUL-T_primary").textContent = Acrid_passive;
+        document.getElementById("MUL-T_primary_img").src = "./Icons/".concat(name,"/",Acrid_passive,".jpg").replace(':', '');
+
+        document.getElementById("MUL-T_primary").style.display = "block";
+        document.getElementById("MUL-T_primary_img").style.display = "block";
     } else {
         document.getElementById("MUL-T_primary").style.display = "none";
         document.getElementById("MUL-T_primary_img").style.display = "none";
